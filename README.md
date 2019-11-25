@@ -1,2 +1,2 @@
-# tennis
-Tennis game written using JavaScript
+# Tennis the game
+Tennis game written using JavaScript.
